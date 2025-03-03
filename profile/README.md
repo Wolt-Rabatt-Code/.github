@@ -5,7 +5,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3yR2iLCtWnZPiJuJeeVc1g.png"  
      alt="Wolt Rabatt Code"  
      title="Wolt Rabatt Code">
-    <h2>Key Points</h2>
+    <h2>Wichtige Punkte</h2>
     <ul>
         <li>Der Wolt Rabattcode HKVG27U bietet bis zu 28 Euro Rabatt auf die ersten zwei Bestellungen, verteilt als 4 Euro Gutschrift pro Bestellung und zusätzlich 50% Rabatt bis zu 10 Euro pro Bestellung.</li>
         <li>Die genaue Verteilung: Jede der ersten zwei Bestellungen spart bis zu 14 Euro (4 Euro Gutschrift + bis zu 10 Euro durch 50% Rabatt), insgesamt also bis zu 28 Euro.</li>
